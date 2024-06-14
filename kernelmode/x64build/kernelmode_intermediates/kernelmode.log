@@ -1,0 +1,25 @@
+﻿  Building 'kernelmode' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64build\kernelmode_intermediates\kernelmode.inf
+  Stamping [Version] section with DriverVer=06/14/2024,17.52.3.459
+  main.cpp
+  kernelmode.vcxproj -> C:\Users\ReleaseTheKraken.DESKTOP-UEOI0L6\Desktop\C++ Projects\Originals\Kernel-Driver-CS2\build\kernelmode.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ReleaseTheKraken.DESKTOP-UEOI0L6\Desktop\C++ Projects\Originals\Kernel-Driver-CS2\build\kernelmode.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\ReleaseTheKraken.DESKTOP-UEOI0L6\Desktop\C++ Projects\Originals\Kernel-Driver-CS2\build\kernelmode\kernelmode.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ReleaseTheKraken.DESKTOP-UEOI0L6\Desktop\C++ Projects\Originals\Kernel-Driver-CS2\build\kernelmode\kernelmode.cat
+  
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
